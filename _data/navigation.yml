@@ -6,4 +6,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Game Projects"
+    url: "/#-game-projects"
 
+  - title: "Research Experience"
+    url: "/#-research-experience"
