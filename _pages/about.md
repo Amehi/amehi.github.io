@@ -21,8 +21,8 @@ Hi! I'm Yuyang Liang, a college student, a game lover, and a newbie game develop
 # 🎮 Game Porjects
 - ## Enclosure (2020) 
   The two players need to control their robot to expend their territories by "enclosure". The player can choose to acquire new area or take it from the opponent. There are also diffrent props on the map to help. Visit this [webpage](https://enclosure-developer.github.io/) to get more information.
-  <iframe src="//player.bilibili.com/player.html?bvid=1fM4y1V7gG" scrolling="no" border="0" height=100% width=100%
-  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.bilibili.com/player.html?bvid=1fM4y1V7gG" scrolling="no" border="0" height=100% width=100%
+  frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 - ## IVAN (2021)
   IVAN is a muliplayer fighting game. Players will play one of the four personalities of IVAN. They will compete in IVAN's spiritual world in order to take control of IVAN's mind. Open source at [IVAN](https://github.com/zhangbaozhe/the-knife-grinder).
   <video src="video/IVAN.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video>
