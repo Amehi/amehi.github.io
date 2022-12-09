@@ -26,7 +26,7 @@ Hi! I'm Yuyang Liang, a college student, a game lover, and a newbie game develop
   IVAN is a muliplayer fighting game. Players will play one of the four personalities of IVAN. They will compete in IVAN's spiritual world in order to take control of IVAN's mind. Open source at [IVAN](https://github.com/zhangbaozhe/the-knife-grinder).
   <video src="video/IVAN.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video>
 - ## Stage Star (2022)
-  A music Developed at the 2022 CiGA Game Jam. The player need to finish the dance performance and meanwhile protect the dancer from little tricks. Visit this [webpage](https://gmhub.com/game/1302) to see more information and download to play.
+  A music game developed at the 2022 CiGA Game Jam. The player need to finish the dance performance and meanwhile protect the dancer from little tricks. Visit this [webpage](https://gmhub.com/game/1302) to see more information and download to play.
   ![avatar](images/stage-star.png)
 
 # 📝 Research Experience
