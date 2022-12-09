@@ -30,10 +30,10 @@ Hi! I'm Yuyang Liang, a college student, a game lover, and a newbie game develop
   ![avatar](images/stage-star.png)
 
 # 📝 Research Experience
-- **CUHKSZ Metaverse Project** | CUHK(SZ)-White Matrix Joint Metaverse Laboratory | Research Assitant
-  In this project, we build a mateverse prototype of CUHKSZ based on Unity. I was mainly resposible for the costume changing system, backpack/prop system and UI system. [(paper link)](https://dl.acm.org/doi/abs/10.1145/3474085.3479238?casa_token=M_rfJbmdv7cAAAAA:A41VLqEApi9VzTqAcYvj5-Sk9vCv3_h9ZQ6ui68Zy-XGpFN97hxloRbDQp3laaF6ygsY7OlHgMysrg)
-- **Neural Animation** | GAP Lab | Research Assitant
-  The research aims at building a neural network that automatically completes the 3D rigging for animations. Still working on it...
+- ## CUHKSZ Metaverse Project | CUHK(SZ)-White Matrix Joint Metaverse Laboratory | Research Assitant
+- In this project, we build a mateverse prototype of CUHKSZ based on Unity. I was mainly resposible for the costume changing system, backpack/prop system and UI system. [(paper link)](https://dl.acm.org/doi/abs/10.1145/3474085.3479238?casa_token=M_rfJbmdv7cAAAAA:A41VLqEApi9VzTqAcYvj5-Sk9vCv3_h9ZQ6ui68Zy-XGpFN97hxloRbDQp3laaF6ygsY7OlHgMysrg)
+- ## Neural Animation | GAP Lab | Research Assitant
+- The research aims at building a neural network that automatically completes the 3D rigging for animations. Still working on it...
 
 # 📖 Educations
 - *2019.09 - 2022.12 (now)*, Undergraduate, The Chinese University of Hong Kong, Shenzhen, Shenzhen.
