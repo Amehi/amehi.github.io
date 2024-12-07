@@ -16,8 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi! I'm Yuyang Liang, a college student, a game lover, and a newbie game developer. I entered The Chinese University of Hong Kong, Shenzhen (CUHKSZ) in 2019 and became a Computer Engineering student. I'm currently interested in computer graphic and game design and development.
+Hi! I'm Yuyang Liang, a master student working at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). My reserach focuses on ML/LLMs for healthcare. I'm also an amateur game developer, check the game projects if you're interested.
 
+
+# 📝 Research Experience
+- ## Labformer | CUHKSZ | Mphil Student
+  In this work, we introduce the task of laboratory measurement prediction within a hopital visit. A prediction model, LabFormer, based on the THP was designed and implemented. (Under Review)
+- ## CUHKSZ Metaverse Project | CUHK(SZ)-White Matrix Joint Metaverse Laboratory | Research Assitant
+  In this project, we build a mateverse prototype of CUHKSZ based on Unity. I was mainly responsible for the costume changing system, backpack/prop system and UI system. [(paper link)](https://dl.acm.org/doi/10.1145/3474085.3479238)
+
+# 💼 Work Experience
+- ## Shenzhen Nine Internet Co., Ltd. | Founding Team Member, Technical Team Member, Head of Operations Department
+  College Student Star-Up. Company established in 2021, incubated at CIDE at CUHKSZ, aiming to create a campus-level information integration platform. Through multi-channel information integration, the platform provides convenient and efficient access to campus activities for students and staff.
+  
 # 🎮 Game Porjects
 - ## Enclosure (2020) 
   The two players need to control their robot to expend their territories by "enclosure". The player can choose to acquire new area or take it from the opponent. There are also diffrent props on the map to help. Visit this [webpage](https://enclosure-developer.github.io/) to get more information.
@@ -29,14 +40,11 @@ Hi! I'm Yuyang Liang, a college student, a game lover, and a newbie game develop
   A music game developed at the 2022 CiGA Game Jam. The player need to finish the dance performance and meanwhile protect the dancer from little tricks. Visit this [webpage](https://gmhub.com/game/1302) to see more information and download to play.
   ![avatar](images/stage-star.png)
 
-# 📝 Research Experience
-- ## CUHKSZ Metaverse Project | CUHK(SZ)-White Matrix Joint Metaverse Laboratory | Research Assitant
-  In this project, we build a mateverse prototype of CUHKSZ based on Unity. I was mainly responsible for the costume changing system, backpack/prop system and UI system. [(paper link)](https://dl.acm.org/doi/abs/10.1145/3474085.3479238?casa_token=M_rfJbmdv7cAAAAA:A41VLqEApi9VzTqAcYvj5-Sk9vCv3_h9ZQ6ui68Zy-XGpFN97hxloRbDQp3laaF6ygsY7OlHgMysrg)
-- ## Neural Animation | GAP Lab | Research Assitant
-  The research aims at building a neural network that automatically completes the 3D rigging for animations. We are now trying to apply SFPT model in our research.
+
 
 # 📖 Educations
-- *2019.09 - 2022.12 (now)*, Undergraduate, The Chinese University of Hong Kong, Shenzhen, Shenzhen.
+- *2023.09 - 2024.12（now）*, MPhil, The Chinese University of Hong Kong, Shenzhen, Shenzhen.
+- *2019.09 - 2023.05*, Undergraduate, The Chinese University of Hong Kong, Shenzhen, Shenzhen.
 - *2016.09 - 2019.06*, The Middle School Attached To Northwestern Polytechnical University, Xi'an.
   
 
