@@ -32,13 +32,14 @@ Hi! I'm Yuyang Liang, a master student working at The Chinese University of Hong
 # 🎮 Game Porjects
 - ## Enclosure (2020) 
   The two players need to control their robot to expend their territories by "enclosure". The player can choose to acquire new area or take it from the opponent. There are also diffrent props on the map to help. Visit this [webpage](https://enclosure-developer.github.io/) to get more information.
-  <iframe src="https://player.bilibili.com/player.html?bvid=1fM4y1V7gG" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"><iframe> 
+  <iframe src="https://player.bilibili.com/player.html?bvid=1fM4y1V7gG" scrolling="no" width="400px" height="300px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"><iframe> 
 - ## IVAN (2021)
   IVAN is a muliplayer fighting game. Players will play one of the five personalities of IVAN. They will compete in IVAN's spiritual world in order to take control of IVAN's mind. Open source at [IVAN](https://github.com/zhangbaozhe/the-knife-grinder).
-  <video src="video/IVAN.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video>
+  <video src="video/IVAN.mp4" position= "absolute" width="400px" height="300px" controls="controls"></video>
 - ## Stage Star (2022)
   A music game developed at the 2022 CiGA Game Jam. The player need to finish the dance performance and meanwhile protect the dancer from little tricks. Visit this [webpage](https://gmhub.com/game/1302) to see more information and download to play.
-  ![avatar](images/stage-star.png)
+  <!-- ![avatar](images/stage-star.png) -->
+  <img src="images/stage-star.png" alt="avatar" width="400" height="300">
 
 
 
