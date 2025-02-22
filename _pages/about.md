@@ -16,16 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi! I'm Yuyang Liang, a master student working at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). My reserach focuses on ML/LLMs for healthcare. I'm also an amateur game developer, check the game projects if you're interested.
+Hi! I'm Yuyang Liang, a master student working at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). My reserach focuses on ML/LLMs for healthcare. I'm also an amateur game developer, check my game projects if you're interested.
 
 
 # 📝 Research Experience
-- ## Labformer | CUHKSZ | Mphil Student
-  In this work, we introduce the task of laboratory measurement prediction within a hopital visit. A prediction model, LabFormer, based on the THP was designed and implemented. (Under Review)
+- ## TRACE | CUHKSZ | Mphil Student
+  Proposed the "Laboratory Measurement" prediction task in the field of EHR medical data, aiming to assist healthcare professionals in optimizing diagnostic and treatment plans by predicting and analyzing patient test data. Paper “TRACE: Intra-visit Clinical Event Nowcasting via Effective Patient Trajectory Encoding” is accepted by WWW 2025 (short).
 - ## CUHKSZ Metaverse Project | CUHK(SZ)-White Matrix Joint Metaverse Laboratory | Research Assitant
-  In this project, we build a mateverse prototype of CUHKSZ based on Unity. I was mainly responsible for the costume changing system, backpack/prop system and UI system. [(paper link)](https://dl.acm.org/doi/10.1145/3474085.3479238)
+  In this project, we build a mateverse prototype of CUHKSZ based on Unity. [(paper link)](https://dl.acm.org/doi/10.1145/3474085.3479238)
 
 # 💼 Work Experience
+- ## International Digital Economy Academy (IDEA) | AIGC Engineer (Intern)
+  Participated as a full-stack AIGC engineer in the relationship-oriented AI application product design and development.
 - ## Shenzhen Nine Internet Co., Ltd. | Founding Team Member, Technical Team Member, Head of Operations Department
   College Student Star-Up. Company established in 2021, incubated at CIDE at CUHKSZ, aiming to create a campus-level information integration platform. Through multi-channel information integration, the platform provides convenient and efficient access to campus activities for students and staff.
   
@@ -44,7 +46,7 @@ Hi! I'm Yuyang Liang, a master student working at The Chinese University of Hong
 
 
 # 📖 Educations
-- *2023.09 - 2024.12（now）*, MPhil, The Chinese University of Hong Kong, Shenzhen, Shenzhen.
+- *2023.09 - now*, MPhil, The Chinese University of Hong Kong, Shenzhen, Shenzhen.
 - *2019.09 - 2023.05*, Undergraduate, The Chinese University of Hong Kong, Shenzhen, Shenzhen.
 - *2016.09 - 2019.06*, The Middle School Attached To Northwestern Polytechnical University, Xi'an.
   
